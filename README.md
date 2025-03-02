@@ -15,4 +15,4 @@
   - [html, css, jquery](https://www.w3schools.com/html/)
 - Deployment
   - [Docker](https://www.docker.com/)
-  - [Ansible](https://docs.ansible.com/ansible/latest/index.html)
+  - [Ansible](https://github.com/ansible/ansible)
