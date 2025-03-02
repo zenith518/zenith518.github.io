@@ -5,6 +5,7 @@
   - [windterm](https://github.com/kingToolbox/WindTerm)
   - [logmett](https://github.com/TeraTermProject/teraterm)
   - [putty](https://github.com/github/putty)
+  - [mobaxterm](https://mobaxterm.mobatek.net/)
 - IDEs
   - [pycharm](https://www.jetbrains.com/pycharm/download/)
 - Programming Languages
